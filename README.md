@@ -4,24 +4,25 @@
 
 1. Alice
 
-- Data Structure & Algorithms
-- Big-O
-- Recursive Call
+- 00_Data Structure & Algorithms
+- 01_Big-O
+- 02_Recursive_Call
+- 03_Algorithm_Problem_Solving_Process
 
 ---
 
 2. Lecture
 
-- 01 선형리스트 1
-- 02 연결리스트 1
-- 03 연결리스트 2
-- 04 스택 1
-- 05 스택 2
-- 06 큐 1
-- 07 원형큐 1
-- 08 선택 정렬 1
-- 09 선택 정렬 2
-- 10 퀵 정렬 1
-- 11 재귀 호출 1
-- 12 이진 검색 1
+- 01_선형리스트 1
+- 02_연결리스트 1
+- 03_연결리스트 2
+- 04_스택 1
+- 05_스택 2
+- 06_큐 1
+- 07_원형큐 1
+- 08_선택정렬 1
+- 09_선택정렬 2
+- 10_퀵정렬 1
+- 11_재귀호출 1
+- 12_이진검색 1
 
