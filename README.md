@@ -8,6 +8,8 @@
 - 01_Big-O
 - 02_Recursive_Call
 - 03_Algorithm_Problem_Solving_Process
+- 04_Complexity_Theory
+- 05_Divide_and_Conquer
 
 ---
 
