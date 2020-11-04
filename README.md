@@ -38,4 +38,4 @@
 >
 > 낮은 난이도의 문제가 많은 codeup.kr에서 추가로 학습한다.
 
--  Greedy
+-  01_Greedy
