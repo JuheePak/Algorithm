@@ -2,7 +2,7 @@
 
 #### 알고리즘 특강에서 들었던 내용과 앨리스 코딩에서 배운 알고리즘 강의 내용을 정리합니다.
 
-1. Alice
+1. alice
 
 - 00_Data Structure & Algorithms
 - 01_Big-O
@@ -13,7 +13,7 @@
 
 ---
 
-2. Lecture
+2. lecture
 
 - 01_선형리스트 1
 - 02_연결리스트 1
