@@ -1,5 +1,5 @@
 def maxProfit(prices):
-    minNum = 9999
+    minNum = 10^5+1
     for i in prices:
         if minNum > i:
             minNum = i
