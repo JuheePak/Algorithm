@@ -47,17 +47,17 @@
 
 4. `leetcode 👊👊`
 
-- 108_Convert_Sorted_Array_to_Binary_Search_Tree
-- 110_Balanced_Binary_Tree
-- 111_Minimum_Depth_of_Binary_Tree
-- 118_Pascal's_Triangle
-- 119_Pascal's_Triangle_II
-- 121_Best_Time_to_Buy_and_Sell_Stock
-- 125_Valid_Palindrome
-- 136_Single_Number
-- 141_Linked_List_Cycle
-- 144_Binary_Tree_Preorder_Traversal
-- 167_Two_Sum_II_-_Input_array_is_sorted
-- 169_Majority_Element
-- 175_Combine_Two_Tables
+- [108_Convert_Sorted_Array_to_Binary_Search_Tree](https://github.com/JuheePak/Algorithms/blob/master/leetcode/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)
+- [110_Balanced_Binary_Tree](https://github.com/JuheePak/Algorithms/blob/master/leetcode/110_Balanced_Binary_Tree.py)
+- [111_Minimum_Depth_of_Binary_Tree](https://github.com/JuheePak/Algorithms/blob/master/leetcode/111_Minimum_Depth_of_Binary_Tree.py)
+- [118_Pascal's_Triangle](https://github.com/JuheePak/Algorithms/blob/master/leetcode/118_Pascal's_Triangle.py)
+- [119_Pascal's_Triangle_II](https://github.com/JuheePak/Algorithms/blob/master/leetcode/119_Pascal's_Triangle_II.py)
+- [121_Best_Time_to_Buy_and_Sell_Stock](https://github.com/JuheePak/Algorithms/blob/master/leetcode/121_Best_Time_to_Buy_and_Sell_Stock.py)
+- [125_Valid_Palindrome](https://github.com/JuheePak/Algorithms/blob/master/leetcode/125_Valid_Palindrome.py)
+- [136_Single_Number](https://github.com/JuheePak/Algorithms/blob/master/leetcode/136_Single_Number.py)
+- [141_Linked_List_Cycle](https://github.com/JuheePak/Algorithms/blob/master/leetcode/141_Linked_List_Cycle.py)
+- [144_Binary_Tree_Preorder_Traversal](https://github.com/JuheePak/Algorithms/blob/master/leetcode/144_Binary_Tree_Preorder_Traversal.py)
+- [167_Two_Sum_II_-_Input_array_is_sorted](https://github.com/JuheePak/Algorithms/blob/master/leetcode/167_Two_Sum_II_-_Input_array_is_sorted.py)
+- [169_Majority_Element](https://github.com/JuheePak/Algorithms/blob/master/leetcode/169_Majority_Element.py)
+- [175_Combine_Two_Tables](https://github.com/JuheePak/Algorithms/blob/master/leetcode/175_Combine_Two_Tables.md)
 
