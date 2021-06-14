@@ -60,4 +60,5 @@
 - [167_Two_Sum_II_-_Input_array_is_sorted](https://github.com/JuheePak/Algorithms/blob/master/leetcode/167_Two_Sum_II_-_Input_array_is_sorted.py)
 - [169_Majority_Element](https://github.com/JuheePak/Algorithms/blob/master/leetcode/169_Majority_Element.py)
 - [175_Combine_Two_Tables](https://github.com/JuheePak/Algorithms/blob/master/leetcode/175_Combine_Two_Tables.md)
-
+- [172_Factorial_Trailing_Zeros](https://github.com/JuheePak/Algorithms/blob/master/leetcode/172_Factorial_Trailing_Zeroes.py)
+- 
