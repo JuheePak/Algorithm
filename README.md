@@ -61,4 +61,7 @@
 - [169_Majority_Element](https://github.com/JuheePak/Algorithms/blob/master/leetcode/169_Majority_Element.py)
 - [175_Combine_Two_Tables](https://github.com/JuheePak/Algorithms/blob/master/leetcode/175_Combine_Two_Tables.md)
 - [172_Factorial_Trailing_Zeros](https://github.com/JuheePak/Algorithms/blob/master/leetcode/172_Factorial_Trailing_Zeroes.py)
-- 
+- [176_Second_Highest_Salary](https://github.com/JuheePak/Algorithms/blob/master/leetcode/176_Second_Highest_Salary.md)
+- [181_Employees_Earning_More_Than_Their_Managers](https://github.com/JuheePak/Algorithms/blob/master/leetcode/181_Employees_Earning_More_Than_Their_Managers.md)
+- [182_Duplicate_Emails](https://github.com/JuheePak/Algorithms/blob/master/leetcode/182_Duplicate_Emails.md)
+
