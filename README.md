@@ -67,4 +67,7 @@
 - [183_Customers Who Never Order](https://github.com/JuheePak/Algorithms/blob/master/leetcode/183_Customers_Who_Never_Order.md)
 - [193_Valid_Phone_Numbers](https://github.com/JuheePak/Algorithms/blob/master/leetcode/193_Valid_Phone_Numbers.md)
 - [195_Tenth_Line](https://github.com/JuheePak/Algorithms/blob/master/leetcode/195_Tenth_Line.md)
+- [202_Happy_Number](https://github.com/JuheePak/Algorithms/blob/master/leetcode/202_Happy_Number.py)
+- [203_Remove_Linked_List_Elements](https://github.com/JuheePak/Algorithms/blob/master/leetcode/203_Remove%20Linked%20List%20Elements.py)
+- [204_Counts_Primes](https://github.com/JuheePak/Algorithms/blob/master/leetcode/204_Count_Primes.py)
 - 
