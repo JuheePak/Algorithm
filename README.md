@@ -70,4 +70,5 @@
 - [202_Happy_Number](https://github.com/JuheePak/Algorithms/blob/master/leetcode/202_Happy_Number.py)
 - [203_Remove_Linked_List_Elements](https://github.com/JuheePak/Algorithms/blob/master/leetcode/203_Remove%20Linked%20List%20Elements.py)
 - [204_Counts_Primes](https://github.com/JuheePak/Algorithms/blob/master/leetcode/204_Count_Primes.py)
+- [217_Contains_Duplicate](https://github.com/JuheePak/Algorithms/blob/master/leetcode/217_Contains_Duplicate.py)
 - 
