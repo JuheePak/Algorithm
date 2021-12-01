@@ -77,19 +77,19 @@
 
 5. `baekjoon - 단계별로 풀어보기 진행`
 
-- 2557 Hello World
-- 10718 We love kriii
-- 10171 고양이
-- 10172 개
-- 1000 A+B
-- 1001 A-B
-- 10998 AxB
-- 1008 A/B
-- 10869 사칙연산
-- 10430 나머지
-- 2588 곱셈
-- 1330 두 수 비교하기
-- 9498 시험 성적
-- 2753 윤년
-- 14681 사분면 고르기
+- [2557 Hello World.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2557 Hello World.py)
+- [10718 We love Kriii.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10718 We love Kriii.py)
+- [10171 고양이.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10171 고양이.py)
+- [10172 개.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10172 개.py)
+- [1000 A+B.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1000 A%2BB.py)
+- [1001 A-B.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1001 A-B.py)
+- [10998 AxB.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10998 AxB.py)
+- [1008 A%B.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1008 A%B.py)
+- [10869.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10869.py)
+- [10430 나머지.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10430 나머지.py)
+- [2588 곱셈.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2588 곱셈.py)
+- [1330 두 수 비교하기.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1330 두 수 비교하기.py)
+- [9498 시험 성적.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/9498 시험 성적.py)
+- [2753 윤년.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2753 윤년.py)
+- [14681 사분면 고르기.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/14681 사분면 고르기.py)
 - 2884 알람 시계
