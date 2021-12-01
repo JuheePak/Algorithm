@@ -72,4 +72,10 @@
 - [204_Counts_Primes](https://github.com/JuheePak/Algorithms/blob/master/leetcode/204_Count_Primes.py)
 - [205_Isomorphic_Strings](https://github.com/JuheePak/Algorithms/blob/master/leetcode/205_Isomorphic_Strings.py)
 - [217_Contains_Duplicate](https://github.com/JuheePak/Algorithms/blob/master/leetcode/217_Contains_Duplicate.py)
-- 
+
+---
+
+5. `baekjoon - 단계별로 풀어보기 진행`
+
+- 1_입출력과 사칙연산
+- 2_if문
