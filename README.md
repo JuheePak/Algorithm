@@ -2,21 +2,21 @@
 
 ### `baekjoon - 단계별로 풀어보기 진행`
 
-- [2557 Hello World](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2557 Hello World.py)
-- [10718 We love Kriii](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10718 We love Kriii.py)
-- [10171 고양이](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10171 고양이.py)
-- [10172 개](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10172 개.py)
-- [1000 A+B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1000 A%2BB.py)
+- [2557 Hello World](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2557%20Hello%20World.py)
+- [10718 We love Kriii](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10718%20We%20love%20Kriii.py)
+- [10171 고양이](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10171%20%EA%B3%A0%EC%96%91%EC%9D%B4.py)
+- [10172 개](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10172%20%EA%B0%9C.py)
+- [1000 A+B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1000%20A%2BB.py)
 - [1001 A-B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1001 A-B.py)
-- [10998 AxB](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10998 AxB.py)
-- [1008 A%B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1008 A%B.py)
+- [10998 AxB](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10998%20AxB.py)
+- [1008 A%B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1008%20A%25B.py)
 - [10869](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10869.py)
-- [10430 나머지](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10430 나머지.py)
-- [2588 곱셈](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2588 곱셈.py)
-- [1330 두 수 비교하기](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1330 두 수 비교하기.py)
-- [9498 시험 성적](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/9498 시험 성적.py)
-- [2753 윤년](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2753 윤년.py)
-- [14681 사분면 고르기](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/14681 사분면 고르기.py)
+- [10430 나머지](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10430%20%EB%82%98%EB%A8%B8%EC%A7%80.py)
+- [2588 곱셈](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2588%20%EA%B3%B1%EC%85%88.py)
+- [1330 두 수 비교하기](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1330%20%EB%91%90%20%EC%88%98%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.py)
+- [9498 시험 성적](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/9498%20%EC%8B%9C%ED%97%98%20%EC%84%B1%EC%A0%81.py)
+- [2753 윤년](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2753%20%EC%9C%A4%EB%85%84.py)
+- [14681 사분면 고르기](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/14681%20%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)
 - 2884 알람 시계
 
 ---
@@ -91,6 +91,3 @@
    - exam06 (만들 수 없는 금액 문제)
 - 02_구현
 - 03_DFS/BFS
-
----
-
