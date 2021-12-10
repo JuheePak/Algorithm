@@ -1,8 +1,27 @@
 ## Algorithms
 
-#### 알고리즘 특강에서 들었던 내용과 앨리스 코딩에서 배운 알고리즘 강의 내용 정리.
+### `baekjoon - 단계별로 풀어보기 진행`
 
-1. `alice`
+- [2557 Hello World](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2557 Hello World.py)
+- [10718 We love Kriii](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10718 We love Kriii.py)
+- [10171 고양이](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10171 고양이.py)
+- [10172 개](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10172 개.py)
+- [1000 A+B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1000 A%2BB.py)
+- [1001 A-B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1001 A-B.py)
+- [10998 AxB](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10998 AxB.py)
+- [1008 A%B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1008 A%B.py)
+- [10869](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10869.py)
+- [10430 나머지](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10430 나머지.py)
+- [2588 곱셈](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2588 곱셈.py)
+- [1330 두 수 비교하기](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1330 두 수 비교하기.py)
+- [9498 시험 성적](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/9498 시험 성적.py)
+- [2753 윤년](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2753 윤년.py)
+- [14681 사분면 고르기](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/14681 사분면 고르기.py)
+- 2884 알람 시계
+
+---
+
+### `Alice 특강 내용 정리`
 
 - 00_Data Structure & Algorithms
 - 01_Big-O
@@ -13,7 +32,7 @@
 
 ---
 
-2. `lecture`
+### `lecture`
 
 - 01_선형리스트 1
 - 02_연결리스트 1
@@ -30,22 +49,7 @@
 
 ---
 
-3. `self_study`
-
-> 코딩 테스트를 대비해서 혼자 공부하고 정리
->
-> 나동빈 《이것이 취업을 위한 코딩테스트다 with python》를 보고 공부
->
-> 다시 풀어야 하는 문제를 기록함
-
--  01_Greedy
-   - exam06 (만들 수 없는 금액 문제)
-- 02_구현
-- 03_DFS/BFS
-
----
-
-4. `leetcode 👊👊`
+### `leetcode 👊👊`
 
 - [108_Convert_Sorted_Array_to_Binary_Search_Tree](https://github.com/JuheePak/Algorithms/blob/master/leetcode/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)
 - [110_Balanced_Binary_Tree](https://github.com/JuheePak/Algorithms/blob/master/leetcode/110_Balanced_Binary_Tree.py)
@@ -75,21 +79,18 @@
 
 ---
 
-5. `baekjoon - 단계별로 풀어보기 진행`
+### `self_study`
 
-- [2557 Hello World.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2557 Hello World.py)
-- [10718 We love Kriii.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10718 We love Kriii.py)
-- [10171 고양이.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10171 고양이.py)
-- [10172 개.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10172 개.py)
-- [1000 A+B.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1000 A%2BB.py)
-- [1001 A-B.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1001 A-B.py)
-- [10998 AxB.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10998 AxB.py)
-- [1008 A%B.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1008 A%B.py)
-- [10869.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10869.py)
-- [10430 나머지.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10430 나머지.py)
-- [2588 곱셈.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2588 곱셈.py)
-- [1330 두 수 비교하기.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1330 두 수 비교하기.py)
-- [9498 시험 성적.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/9498 시험 성적.py)
-- [2753 윤년.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/2753 윤년.py)
-- [14681 사분면 고르기.py](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/14681 사분면 고르기.py)
-- 2884 알람 시계
+> 코딩 테스트를 대비해서 혼자 공부하고 정리
+>
+> 나동빈 《이것이 취업을 위한 코딩테스트다 with python》를 보고 공부
+>
+> 다시 풀어야 하는 문제를 기록함
+
+-  01_Greedy
+   - exam06 (만들 수 없는 금액 문제)
+- 02_구현
+- 03_DFS/BFS
+
+---
+
