@@ -7,7 +7,7 @@
 - [10171 고양이](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10171%20%EA%B3%A0%EC%96%91%EC%9D%B4.py)
 - [10172 개](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10172%20%EA%B0%9C.py)
 - [1000 A+B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1000%20A%2BB.py)
-- [1001 A-B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1001 A-B.py)
+- [1001 A-B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1001%20A-B.py)
 - [10998 AxB](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10998%20AxB.py)
 - [1008 A%B](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/1008%20A%25B.py)
 - [10869](https://github.com/JuheePak/Algorithms/blob/master/baekjoon/10869.py)
